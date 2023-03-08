@@ -1,6 +1,8 @@
 # Coding Club
 The official Bowditch Coding Club Website
 
-The Website will hold information about Coding Club as well as the next meeting and the club calendar
+Im not going to archive this for the future of coding club, if there is one. I have since graduated, but coding club founders of the next few years feel free to make a pull request
+
+I am not actively maintaining this anymore :(
 
 ### Developer: LightLord
